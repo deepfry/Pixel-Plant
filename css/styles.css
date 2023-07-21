@@ -1,0 +1,11 @@
+.gameObj {
+    display: block;
+    position: absolute;
+}
+
+.pot {
+    height:50px;
+    width:50px;
+    background:firebrick;
+    cursor: pointer;
+}
